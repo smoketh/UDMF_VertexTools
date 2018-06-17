@@ -1,0 +1,17 @@
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\UDMF_VertexTools.exe.config
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\UDMF_VertexTools.exe
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\UDMF_VertexTools.pdb
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\SharpGL.dll
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\SharpGL.WinForms.dll
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\SharpGL.pdb
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\SharpGL.SceneGraph.pdb
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\bin\Release\SharpGL.WinForms.pdb
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.csprojResolveAssemblyReference.cache
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.Form1.resources
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.Properties.Resources.resources
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.csproj.GenerateResource.cache
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.csproj.CoreCompileInputs.cache
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.csproj.CopyComplete
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.exe
+C:\Users\SmokeFumus_Sat\Documents\Visual Studio 2017\Projects\UDMF_VertexTools\UDMF_VertexTools\obj\Release\UDMF_VertexTools.pdb
